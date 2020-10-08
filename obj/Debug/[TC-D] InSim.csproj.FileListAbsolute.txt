@@ -1,0 +1,12 @@
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\LFS External.exe
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\LFS External.pdb
+C:\Users\Emo\Desktop\[TC-D] InSim\bin\Debug\LFS External.exe
+C:\Users\Emo\Desktop\[TC-D] InSim\bin\Debug\LFS External.pdb
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\[TC-D] InSim.csprojResolveAssemblyReference.cache
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Emo\Desktop\[TC-D] InSim\obj\Debug\[TC-D] InSim.csproj.GenerateResource.Cache
+F:\İnsimler\[TC-D] InSim TR\obj\Debug\LFS External.exe
+F:\İnsimler\[TC-D] InSim TR\obj\Debug\LFS External.pdb
+D:\İnsimler\[TC-D] InSim TR\obj\Debug\LFS External.exe
+D:\İnsimler\[TC-D] InSim TR\obj\Debug\LFS External.pdb

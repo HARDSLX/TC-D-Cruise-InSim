@@ -1,0 +1,2 @@
+Swear = fuck
+Swear = bitch

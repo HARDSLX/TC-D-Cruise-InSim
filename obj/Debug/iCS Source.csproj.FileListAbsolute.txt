@@ -1,0 +1,24 @@
+C:\Users\FOX\Desktop\iCS Source\bin\Debug\LFS External.exe
+C:\Users\FOX\Desktop\iCS Source\bin\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\iCS Source.csprojResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\iCS Source.csproj.GenerateResource.Cache
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\LFS External.exe
+C:\Users\FOX\Desktop\iCS Source\obj\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\LFS External.exe
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\Нова папка\iCS Source\bin\Debug\LFS External.exe
+C:\Users\FOX\Desktop\Нова папка\iCS Source\bin\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\iCS Source.csprojResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\FOX\Desktop\Нова папка\iCS Source\obj\Debug\iCS Source.csproj.GenerateResource.Cache
+D:\500 GB HDD\iCS Source\obj\Debug\LFS External.exe
+D:\500 GB HDD\iCS Source\obj\Debug\LFS External.pdb
+D:\500 GB HDD\iCS Source\bin\Debug\LFS External.exe
+D:\500 GB HDD\iCS Source\bin\Debug\LFS External.pdb
+D:\500 GB HDD\iCS Source\obj\Debug\iCS Source.csprojResolveAssemblyReference.cache
+D:\500 GB HDD\iCS Source\obj\Debug\LFS_External_Client.Form1.resources
+D:\500 GB HDD\iCS Source\obj\Debug\LFS_External.Properties.Resources.resources
+D:\500 GB HDD\iCS Source\obj\Debug\iCS Source.csproj.GenerateResource.Cache
